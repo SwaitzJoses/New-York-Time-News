@@ -1,0 +1,39 @@
+.container{
+    background-color: rgb(214, 211, 211);
+    border: 2px solid black;
+    margin-bottom: 20px;
+    
+}
+
+.a2{
+    width:100%
+
+}
+
+
+#img{
+    margin:20px
+}
+
+
+#nav{
+    background-color: #fff;
+    border: 2px solid black;
+    font-size: 50px;
+}
+
+
+#section{
+    font-size: 20px;
+    font-weight: bold;
+    color:blue;
+    text-transform: uppercase;
+}
+
+#date{
+    color: grey
+}
+
+#title{
+    font-weight: bold;
+}
